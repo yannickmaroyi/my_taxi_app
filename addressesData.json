@@ -1,0 +1,186 @@
+[
+    
+    {
+        "_id": "5d7cae4a7449675ee6bd3fa3",
+        "userName": "yannick",
+        "pickUp": {
+            "viewport": {
+                "longitudeSW": "32.5810790197085",
+                "latitudeSW": "0.310705969708498",
+                "longitudeNE": "32.5837769802915",
+                "latitudeNE": "0.3134039302915021"
+            },
+            "types": [
+                "shopping_mall",
+                "premise",
+                "point_of_interest",
+                "establishment"
+            ],
+            "website": "",
+            "address": "Russel Ln, Kampala, Uganda",
+            "location": {
+                "longitude": "32.5824313",
+                "latitude": "0.3120632"
+            },
+            "userRatingsTotal": "0",
+            "rating": "0",
+            "priceLevel": "0",
+            "placeID": "ChIJrchttps://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/56894504_2207240785982017_2376240834614919168_n.jpg?_nc_cat=108&_nc_oc=AQkdmLMVWzpQJiquuhpZ_bWGoCiGpjtSMqD4YOMR4CB1VqfvnqQFsITNC-E1zUPVIzY&_nc_ht=scontent.fnbo1-1.fna&oh=36c732d7e075dcc4d4dfbf4fc9f3f40e&oe=5DFF6A111BqoC8fRcRY7Xeg1gi4XI",
+            "phoneNumber": "",
+            "addressComponents": {
+                "shortName": [
+                    "Russel Ln",
+                    "Kampala Central Division",
+                    "Kampala",
+                    "Kampala",
+                    "Central Region",
+                    "UG"
+                ],
+                "name": [
+                    "Russel Lane",
+                    "Kampala Central Division",
+                    "Kampala",https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/56894504_2207240785982017_2376240834614919168_n.jpg?_nc_cat=108&_nc_oc=AQkdmLMVWzpQJiquuhpZ_bWGoCiGpjtSMqD4YOMR4CB1VqfvnqQFsITNC-E1zUPVIzY&_nc_ht=scontent.fnbo1-1.fna&oh=36c732d7e075dcc4d4dfbf4fc9f3f40e&oe=5DFF6A11
+                    "Kampala",
+                    "Central Region",
+                    "Uganda"
+                ],
+                "types": [
+                    "route",
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political",
+                    "locality",
+                    "political",
+                    "administrative_area_level_2",
+                    "political",
+                    "administrative_area_level_1",
+                    "political",
+                    "country",
+                    "political"
+                ]
+            },
+            "name": "Kamu-Kamu Plaza"
+        },
+        "dropOff": {
+            "plusCode": {
+                "globalCode": "6GGJ8H9F+HX",
+                "compoundCode": "8H9F+HX Kampala, Uganda"
+            },
+            "viewport": {
+                "longitudeSW": "32.57356626970851",
+                "latitudeSW": "0.3176836697084979",
+                "longitudeNE": "32.57626423029151",
+                "latitudeNE": "0.320381630291502"
+            },
+            "types": [
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "website": "http://www.watotochurch.com/",
+            "address": "Kampala, Uganda",
+            "location": {
+                "longitude": "32.57496820000001",
+                "latitude": "0.3189207"
+            },
+            "userRatingsTotal": "1005",
+            "openingHours": [
+                "Monday: 8:00 am – 5:00 pm",
+                "Tuesday: 8:00 am – 5:00 pm",
+                "Wednesday: 8:00 am – 5:00 pm",
+                "Thursday: 8:00 am – 5:00 pm",
+                "Friday: 8:00 am – 5:00 pm",
+                "Saturday: 8:00 am – 5:00 pm",
+                "Sunday: 8:00 am – 5:00 pm"
+            ],
+            "rating": "4.6",
+            "priceLevel": "0",
+            "placeID": "ChIJP8UHaXy7fRcRxBSCrAa1kf4",
+            "phoneNumber": "+256 41 4313500",
+            "addressComponents": {
+                "shortName": [
+                    "Kampala",
+                    "Kampala Central Division",
+                    "Kampala",
+                    "Central Region",
+                    "UG"
+                ],
+                "name": [
+                    "Kampala",
+                    "Kampala Central Division",
+                    "Kampala",
+                    "Central Region",
+                    "Uganda"
+                ],
+                "types": [
+                    "locality",
+                    "political",
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political",
+                    "administrative_area_level_2",
+                    "political",
+                    "administrative_area_level_1",
+                    "political",
+                    "country",
+                    "political"
+                ]
+            },
+            "name": "Watoto Church DownTown"
+        },
+        "fare": "3",
+        "status": "pending"
+    },
+    
+    {
+        "_id": "5d7cb9297449675ee6bd3fa5",
+        "userName": "yannick",
+        "pickUp": {
+            "address": "Russel Ln, Kampala, Uganda",
+            "name": "Kamu-Kamu Plaza",
+            "latitude": "0.3120632",
+            "longitude": "32.5824313"
+        },
+        "dropOff": {
+            "address": "Kampala, Uganda",
+            "name": "Watoto Church DownTown",
+            "latitude": "0.3189207",
+            "longitude": "32.57496820000001"
+        },
+        "fare": "3",
+        "status": "pending"
+    },
+
+{
+    "firstName": "yannick",
+    "lastName": "maroyi",
+    "dob": "12/04/1991",
+    "nationalID": "1232302930",
+    "profilePic": "https://scontent.fnbo1-1.fna.fbcdn.net/v/t1.0-9/56894504_2207240785982017_2376240834614919168_n.jpg?_nc_cat=108&_nc_oc=AQkdmLMVWzpQJiquuhpZ_bWGoCiGpjtSMqD4YOMR4CB1VqfvnqQFsITNC-E1zUPVIzY&_nc_ht=scontent.fnbo1-1.fna&oh=36c732d7e075dcc4d4dfbf4fc9f3f40e&oe=5DFF6A11",
+    "rating": 4,
+    "address":{
+        "addressLine1":"salama road",
+        "addressLine2":"salama bunzali",
+        "city":"kampala",
+        "state": "kampala",
+        "zipCode": "256"
+    },
+    "vehicle":{
+        "bodyType":"suv",
+        "model":"honda CRV",
+        "plateNumber":"UBA 3233 X",
+        "color": " black"
+    }
+  },
+  {
+      "driverId":"",
+      "coordinate":{
+          "type":"point",
+          "coordinates":[
+              
+          ]
+      }
+  }
+]
+
